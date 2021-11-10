@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/master-data/Update.js"],"names":["Update"],"mappings":"8KAAA,gEAEe,SAASA,IACpB,OACI","file":"static/js/71.3d87ce3c.chunk.js","sourcesContent":["import React from 'react'\n\nexport default function Update() {\n    return (\n        <div>\n            Update\n        </div>\n    )\n}\n"],"sourceRoot":""}

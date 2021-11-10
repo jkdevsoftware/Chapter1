@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/master-data/Insert.js"],"names":["Insert"],"mappings":"8KAAA,gEAEe,SAASA,IACtB,OACE,yCAEE","file":"static/js/70.fe7e1b01.chunk.js","sourcesContent":["import React from \"react\";\n\nexport default function Insert() {\n  return (\n    <div>\n      Insert\n      <span></span>\n    </div>\n  );\n}\n"],"sourceRoot":""}

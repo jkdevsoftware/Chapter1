@@ -1,0 +1,2 @@
+(this["webpackJsonp@coreui/coreui-free-react-admin-template"]=this["webpackJsonp@coreui/coreui-free-react-admin-template"]||[]).push([[66],{1312:function(e,c,t){"use strict";t.r(c);var r=t(651),i=(t(1),t(755)),s=t(17);c.default=function(){return Object(s.jsxs)(r.j,{children:[Object(s.jsx)(r.n,{children:Object(s.jsx)("h4",{children:"Summary Overtimes"})}),Object(s.jsx)(r.k,{children:Object(s.jsx)(r.ub,{children:Object(s.jsx)(r.u,{sm:"12",children:Object(s.jsx)(i.a,{style:{height:"300px",marginTop:"40px"}})})})})]})}}}]);
+//# sourceMappingURL=66.59cd9bf3.chunk.js.map

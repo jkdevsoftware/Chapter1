@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/master-data/product/Detail.js"],"names":["Detail"],"mappings":"8KAAA,gEAEe,SAASA,IACpB,OACI","file":"static/js/72.0a0a9664.chunk.js","sourcesContent":["import React from 'react'\n\nexport default function Detail() {\n    return (\n        <div>\n           Product Detail \n        </div>\n    )\n}\n"],"sourceRoot":""}
